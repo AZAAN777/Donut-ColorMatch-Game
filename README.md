@@ -1,4 +1,5 @@
 # 🍩 Donut Color Match Game
+📲 **Download APK**: [Click here to download the game](https://github.com/AZAAN777/Donut-ColorMatch-Game/releases/latest)
 
 A fast-paced color-matching Unity game where players serve donuts to customers based on color preference. Serve accurately, manage waiting positions, use power-ups, and race against the clock!
 
